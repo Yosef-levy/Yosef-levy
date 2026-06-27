@@ -45,7 +45,11 @@ The proposal introduces:
 * AI chaos engineering concepts
 * Architecture-aware resilience testing
 
-**Pull Request**
+**Repository**
+
+https://github.com/Yosef-levy/rogue
+
+**Upstream Pull Request**
 
 https://github.com/qualifire-dev/rogue/pull/174
 

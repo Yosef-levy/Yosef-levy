@@ -97,6 +97,7 @@ Git • GitHub Actions • GCP • Distributed Systems
 
 # 📫 Contact
 
+* Email: y.levy.foo@gmail.com
 * LinkedIn: https://www.linkedin.com/in/yossi-levy-179b09210/
 * GitHub: https://github.com/Yosef-levy
 
